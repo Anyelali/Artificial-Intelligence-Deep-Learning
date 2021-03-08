@@ -1,2 +1,2 @@
-# Artificial-Intelligence-Deep-Learning
+# ArtificialIntelligence_DeepLearning
 Profundización Diplomado Unal QI-2021
